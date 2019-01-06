@@ -1,5 +1,5 @@
 # Overview
-A step-by-step guide on how to do open the security group to allow connections from any IP address.
+A step-by-step guide on how to open AWS security group to allow connections from any IP address.
 
 # How to Open AWS Security Group To All IPs
 1. Open AWS Services Link
@@ -10,7 +10,7 @@ A step-by-step guide on how to do open the security group to allow connections f
 ![Click Inbound Tab](screenshots/security-group/3-click-inbound-tab.png)
 4. Click Edit Button
 ![Click Edit Button](screenshots/security-group/4-click-edit-button.png)
-5. Specify IP Range
+5. Specify IP CIDR
 ![Specify IP Range](screenshots/security-group/5-specify-ip-range.png)
 6. Save Inbound Rules
 ![Save Inbound Rules](screenshots/security-group/6-save-inbound-rules.png)
