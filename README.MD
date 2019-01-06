@@ -199,5 +199,6 @@ sudo systemctl start docker
 5. Environment is cleaned up (ie. remove Docker instance & workspace)
 6. Code promoted and deployed on successful testing
  
+![DevOps Landscape](screenshots/devops/devops-landscape-1.png)
 
 ![DevOps CI/CD AWS, Jenkins & Docker](screenshots/devops/devops-ci-cd-aws-jenkins-docker.gif)
