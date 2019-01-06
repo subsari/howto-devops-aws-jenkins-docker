@@ -1,5 +1,5 @@
 # Overview
-A step-by-step guide on how to do configure Jenkins to build a project upon a github commit push event.
+A step-by-step guide on how to configure Jenkins to build a project upon a github commit push event.
 
 This enables you to perform Continuous Integration & Continuous Deployment for your DevOps initiatives.
 

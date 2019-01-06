@@ -1,5 +1,5 @@
 # Overview
-A step-by-step guide on how to do install Jenkins on AWS CentOS 7.
+A step-by-step guide on how to install Jenkins on AWS CentOS 7.
 
 # How to Install Jenkins 
 0. Connect to EC2 Instance

@@ -1,5 +1,5 @@
 # Overview
-A step-by-step guide on how to do install Jenkins Github Integration plugin.
+A step-by-step guide on how to install Jenkins Github Integration plugin.
 
 **Login To Jenkins**
 ![Login To Jenkins](screenshots/jenkins/install-git-plugin/1-login-to-jenkins.png)

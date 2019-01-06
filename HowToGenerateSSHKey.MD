@@ -1,5 +1,5 @@
 # Overview
-A step-by-step guide on how to do generate an SSH Key.
+A step-by-step guide on how to generate an SSH Key.
 
 # How to Generate An SSH Key
 1. Open Terminal

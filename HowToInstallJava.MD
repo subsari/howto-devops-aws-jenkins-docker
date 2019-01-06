@@ -1,5 +1,5 @@
 # Overview
-A step-by-step guide on how to do install Java on AWS CentOS 7.
+A step-by-step guide on how to install Java on AWS CentOS 7.
 
 # How to Generate An SSH Key
 1. Connect to EC2 Instance

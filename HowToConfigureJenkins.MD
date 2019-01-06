@@ -1,5 +1,5 @@
 # Overview
-A step-by-step guide on how to do configure Jenkins on AWS CentOS 7.
+A step-by-step guide on how to configure Jenkins on AWS CentOS 7.
 
 # How to Configure Jenkins 
 1. Navigate To Instance
