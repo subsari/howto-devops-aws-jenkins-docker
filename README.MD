@@ -43,9 +43,8 @@ This gives AWS an opportunity to provide tutorial suggestions and tailor the use
 **Copy/Paste EC2 Template**
 ![Copy/Paste EC2 Template](screenshots/aws/13-paste-ec2-instance-template.png)
 Copy Template From
-```
-https://raw.githubusercontent.com/subsari/snippets/master/aws/ec2-centos7-instance.yml
-```
+
+[https://raw.githubusercontent.com/subsari/snippets/master/aws/ec2-centos7-instance.yml](https://raw.githubusercontent.com/subsari/snippets/master/aws/ec2-centos7-instance.yml)
 
 **Click Refresh Icon**
 ![Click Refresh Icon](screenshots/aws/14-click-refresh-icon.png)
@@ -160,7 +159,8 @@ sudo systemctl start docker
 1. Check Prevent Concurrent Builds
 2. Specify To Build Every 5 Minutes
 ![Specify Pipeline Details](screenshots/jenkins/11-specify-pipeline-details.png)
-3. Copy/Paste Pipeline Script From: https://raw.githubusercontent.com/subsari/snippets/master/jenkins/pipeline-example.yml
+3. Copy/Paste Pipeline Script From
+[https://raw.githubusercontent.com/subsari/snippets/master/jenkins/pipeline-example.yml](https://raw.githubusercontent.com/subsari/snippets/master/jenkins/pipeline-example.yml)
 
 ![Specify Pipeline Script](screenshots/jenkins/12-specify-pipeline-script.png)
 
